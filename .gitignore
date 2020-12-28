@@ -1,3 +1,11 @@
 practice/
 venv/
 .ipynb_checkpoints/
+gender_submission.csv
+submission.csv
+tackle_titanic.ipynb
+tackle_titanic_2.ipynb
+tackle_titanic_final_clean_maybe.ipynb
+test.csv
+titanic.zip
+train.csv
